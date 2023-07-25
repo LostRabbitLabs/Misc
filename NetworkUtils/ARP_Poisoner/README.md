@@ -1,4 +1,4 @@
-# Welcome to the ARP Poisoner utility from x3dnesse
+# Welcome to the ARP Poisoner utility from LostRabbitLabs and x3dnesse
 
 This utility can be used to poison an entire subnet's ARP cache. Of course, you will want to make sure that they are not using static ARP entries or something like that.
 

@@ -1,4 +1,4 @@
-# ICMP Tunneling Scripts by x3dnesse
+# ICMP Tunneling Scripts by LostRabbitLabs and x3dnesse
 
 In order to use these scripts, root privileges are required and a python installation must be present on the victim machine.
 
